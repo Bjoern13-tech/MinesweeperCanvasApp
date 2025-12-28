@@ -1,7 +1,5 @@
 # MinesweeperCanvasApp
 
-🧨 Minesweeper in Power Apps (Canvas App)
-
 This repository contains a classic Minesweeper game built as a Power Apps Canvas App, created to explore and showcase the new Grid container feature.
 
 The project is intentionally small, nostalgic, and hands-on — focusing on layout, state management, and interaction patterns rather than business forms or CRUD scenarios.
